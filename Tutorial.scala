@@ -1,7 +1,7 @@
 import scala.io.Source
 
 /**
- * Created by Dino on 8.9.2014..
+ * Calculate square root of a number by using Newton approximation.
  */
 object Second {
 
